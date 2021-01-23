@@ -19,9 +19,9 @@ int main(void)
 	result = LSearch(arr, sizeof(arr) / sizeof(int), 9);
 
 	if (result != -1)
-		printf("%d¿¡ À§Ä¡ÇÔ", i + i);
+		printf("%dÂ¿Â¡ Ã€Â§Ã„Â¡Ã‡Ã”", i + i);
 	else
-		printf("Á¸ÀçÇÏÁö ¾ÊÀ½");
+		printf("ÃÂ¸Ã€Ã§Ã‡ÃÃÃ¶ Â¾ÃŠÃ€Â½");
 	
 	return 0;
 }
