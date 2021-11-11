@@ -16,7 +16,7 @@
 - [Chapter 13](#Contributors)
 - [Chapter 14](#Contributors)
 
-### Chapter 01. 자료구조와 알고리즘의 이해
+## Chapter 01. 자료구조와 알고리즘의 이해
 > 01-1. 자료구조(Data Structure)에 대한 기본적인 이해<br/> 01-2. 알고리즘의 성능분석 방법 <br/> 프로그래밍 문제의 답안
 
 ### Chapter 02. 재귀(Recursion)
