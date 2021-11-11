@@ -2,7 +2,7 @@
 
 ## 목차
 - [Chapter 01](#Chapter 01. 자료구조와 알고리즘의 이해)
-- [Chapter 02](#데이터-목록)
+- [Chapter 02](#Chapter 02. 재귀(Recursion))
 - [Chapter 03](#전처리-과정)
 - [Chapter 04](#군집-분석)
 - [Chapter 05](#최종-시각화)
