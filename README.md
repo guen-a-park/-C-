@@ -1,20 +1,5 @@
 # 💻윤성우의 열혈 자료구조
 
-## 목차
-- [Chapter 01](#Chapter 01. 자료구조와 알고리즘의 이해)
-- [Chapter 02](#Chapter 02. 재귀(Recursion))
-- [Chapter 03](#전처리-과정)
-- [Chapter 04](#군집-분석)
-- [Chapter 05](#최종-시각화)
-- [Chapter 06](#프로젝트-보고서)
-- [Chapter 07](#Contributors)
-- [Chapter 08](#Contributors)
-- [Chapter 09](#Contributors)
-- [Chapter 10](#Contributors)
-- [Chapter 11](#Contributors)
-- [Chapter 12](#Contributors)
-- [Chapter 13](#Contributors)
-- [Chapter 14](#Contributors)
 
 ## Chapter 01. 자료구조와 알고리즘의 이해
 > 01-1. 자료구조(Data Structure)에 대한 기본적인 이해<br/> 01-2. 알고리즘의 성능분석 방법 <br/> 프로그래밍 문제의 답안
